@@ -1,0 +1,24 @@
+{
+  "name": "infiniplay",
+  "version": "0.0.1",
+  "description": "An playlist that changes in such a manor that a song is never repeated in a day and doesn't play songs at the same time",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "test"
+  },
+  "keywords": [
+    "tehnod",
+    "infiniPlay",
+    "playlist",
+    "algorithm"
+  ],
+  "author": "tehNod",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nedb": "^1.8.0",
+    "server": "^1.0.18",
+    "update": "^0.7.4"
+  }
+}
