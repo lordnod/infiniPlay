@@ -16,7 +16,7 @@
   "author": "tehNod",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "nedb": "^1.8.0",
     "server": "^1.0.18",
     "update": "^0.7.4"
